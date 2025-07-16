@@ -1,6 +1,6 @@
 {
   "960023644": {
-    "allowedToUse": false,
-    "blacklisted": true
+    "allowedToUse": true,
+    "blacklisted": false
   }
 }
