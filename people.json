@@ -1,6 +1,6 @@
-people = {
-  960023644 = {
-    allowedToUse = true,
-    blacklisted = false
+{
+  "960023644": {
+    "allowedToUse": true,
+    "blacklisted": false
   }
 }
